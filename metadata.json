@@ -1,0 +1,6 @@
+{
+  "name": "HoneyWell Supplier Sourcing & Research Dashboard",
+  "description": "Production-quality Supplier Sourcing & Research Dashboard for HoneyWell Plc, evaluating, shortlisting, and monitoring raw-material suppliers across Nigerian food-processing markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
